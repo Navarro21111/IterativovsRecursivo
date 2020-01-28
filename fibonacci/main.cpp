@@ -52,3 +52,4 @@ int main() {
     cout<<"\n"<<duration.count()<<"milisegundos";
     return 0;
 }
+//Checked
